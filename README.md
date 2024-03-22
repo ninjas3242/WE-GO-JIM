@@ -46,11 +46,3 @@ This is a web application designed to assist users in planning and tracking thei
 4. Start the backend server using `mvn spring-boot:run`.
 5. Start the frontend development server using `npm start`.
 6. Access the application in your web browser at `http://localhost:3000`.
-
-## Contributors
-- [Your Name]
-- [Collaborator 1]
-- [Collaborator 2]
-
-## License
-This project is licensed under the [MIT License](LICENSE).
